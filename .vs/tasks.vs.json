@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-testDataCon",
+      "appliesTo": "testDataCon.php",
+      "type": "launch"
+    }
+  ]
+}
